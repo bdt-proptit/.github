@@ -8,7 +8,7 @@ Technical Training Department have duty to build and improve the learning roadma
 
 More info: [https://proptit.com](https://proptit.com)
 
-## Current department members
+## Department members
 
 - Gen 9 (2022 - 2023): 8 members
     - Head of department: Nguyen Quoc Hung [@quochungcyou](https://github.com/quochung-cyou)
@@ -19,4 +19,13 @@ More info: [https://proptit.com](https://proptit.com)
     - Member: Vu Dinh Thiet [@thiet003](https://github.com/thiet003)
     - Member: Nguyen Mai Phuong [@maiphuong294](https://github.com/maiphuong294)
     - Member: Ngo Dang Han
+- Gen 10 (2023 - 2024): 8 members
+    - Head of department: Bui The Vinh Nguyen: [@NguyenBui256](https://github.com/NguyenBui256)
+    -  Vice Head of department: Nguyen Nhat Thanh [@NgNhatThanh](https://github.com/NgNhatThanh)
+    -  Vice Head of department: Dang Huyen Trang: [@DHuyenTrang](https://github.com/DHuyenTrang)
+    - Member: Bui Quang Dat: [@buiquangdat1710](https://github.com/buiquangdat1710)
+    - Member: Do Ly Minh Anh: [@minhengdey](https://github.com/minhengdey)
+    - Member: Nguyen Huu Tien [@Hecker-Chuoi](https://github.com/Hecker-Chuoi)
+    - Member: Tran Duc Chinh [@TrDucChinh](https://github.com/TrDucChinh)
+    - Member: Pham Quang Minh [@PhQuangMinh](https://github.com/PhQuangMinh)
 
