@@ -28,4 +28,12 @@ More info: [https://proptit.com](https://proptit.com)
     - Member: Nguyen Huu Tien: [@Hecker-Chuoi](https://github.com/Hecker-Chuoi)
     - Member: Tran Duc Chinh: [@TrDucChinh](https://github.com/TrDucChinh)
     - Member: Pham Quang Minh: [@PhQuangMinh](https://github.com/PhQuangMinh)
-
+- Gen 11 (2024 - 2025): 8 members
+    - Head of department: Giap Minh Hieu: [@HieuGM](https://github.com/HieuGM)
+    -  Vice Head of department: Nguyen Van Minh Luc: [@lucnguyen1375](https://github.com/lucnguyen1375)
+    -  Vice Head of department: Hoang Van Chinh: [@HVChinh-111](https://github.com/HVChinh-111)
+    - Member: Han Huu Dang: [@iwillcthew](https://github.com/iwillcthew)
+    - Member: Tran Khac Long: [@longtrandev2](https://github.com/longtrandev2)
+    - Member: Mong The Luc: [@dragonite2631](https://github.com/dragonite2631)
+    - Member: Tran Hai Long: [@team3hailong](https://github.com/team3hailong)
+    - Member: Nguyen Nam Hai: [@HandQ2212](https://github.com/HandQ2212)
